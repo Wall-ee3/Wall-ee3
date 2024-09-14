@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/2ad3dc84-bc76-46bd-bc74-3c3db5e807f8"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/2ac371f8-d639-4692-b38d-eef0c7a14c3a"/>
 <br>
 <br>
 <br>
@@ -11,25 +11,27 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whyuke&theme=dark&card_width=1000&card_height=200)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wall-ee3&theme=dark&card_width=1000&card_height=200)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center" >
   
-  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Whyuke?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=blue)
+  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Wall-ee3?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=green)
   
   </div>
   
   <h2 align="center"> Main skills: </h2>
   
-  <div align="center"><img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/99d13e81-39ae-4ad4-8d1f-6f23ea0891db">
+  <div align="center">
     
-  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/3d382830-4fe7-4c30-bbb8-d7b8ed9e2959">
+  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/03b92e07-8d19-43fb-a673-25fcf5c2ef1d">
+    
+  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/14a24a53-dcfc-49f8-8e94-12acb959a109">
   
-  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/3d8c8969-9c7b-49e6-8d6b-dbc2939ff0da">
+  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/4e632403-88fe-4ae9-986e-c57bc362b0e4">
   
-  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/b1060c3a-8ff8-4f27-9b1b-b3c974c0f2f4">
+  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/edd4bfa6-a34f-4371-b409-d383c98a8d51">
   
   </div>
   
@@ -44,9 +46,9 @@
   
   <div align="center">
     
-  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/99d13e81-39ae-4ad4-8d1f-6f23ea0891db">
+  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/4e632403-88fe-4ae9-986e-c57bc362b0e4">
     
-  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/b1060c3a-8ff8-4f27-9b1b-b3c974c0f2f4">
+  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/edd4bfa6-a34f-4371-b409-d383c98a8d51">
   
   </div>
   
@@ -60,17 +62,17 @@
   ### Contact:<div align="center">
   
   <a href="https://www.instagram.com/wall__e3/" target="_blank">
-  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/9c60a480-8135-4fb5-ac72-5f7eb7f94dc0">
+  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/740c8fd8-02ab-4131-a531-53bcde173b50">
   
   </a>
   
-  <a href="mailto:cmp.1a.wallacedcosta@gmail.com">
-  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/e8d5513a-a27f-4647-bd13-be4ff555dc8e">
+  <a href="mailto:wallacedcosta@gmail.com">
+  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/2fdc4df1-849c-41ee-a218-e94da007f68e">
   
   </a>
   
   <a href="https://www.linkedin.com/in/wallace-ferreira-1260b9255/" target=_blank>
-  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/e769c7fd-af5a-4d98-9371-954bcecb1424">
+  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/15ecb292-6cc2-4770-978c-fb22c33aae4d">
   
   </a>
   
@@ -79,4 +81,4 @@
   <br>
   <br>
   
-  <img width=100% src="https://github.com/user-attachments/assets/736f0a0a-5f3a-45a4-bc71-9843f4134c02"/>
+  <img width=100% src="https://github.com/user-attachments/assets/ef2f5d84-eb99-4507-8bf8-81b6a56fac6b"/>
